@@ -11,3 +11,9 @@ week02
   git checkout hashcode
   git checkout -
   git branch -M main
+
+  git remote add origin https://~~
+  git remote -v
+  git push -u origin main
+
+  git clone
