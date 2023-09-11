@@ -17,3 +17,5 @@ week02
   git push -u origin main
 
   git clone
+  git clone https://github.com/Tanisoko/test_inhatc
+  git clone https://github.com/Tanisoko/test_inhatc.
